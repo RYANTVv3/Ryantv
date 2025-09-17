@@ -11,12 +11,12 @@ M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 #EXTINF:-1 tvg-id="iheartmovies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/I_Heart_Movies_2021.png" group-title="RYANTV CHANNELS",I Heart Movies
 http://ixp.enixph.com:9111/stream/kapamilya/ihm/master.m3u8?u=enix&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" group-title="RYANTV CHANNELS", RPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/44B03994-C303-4ACE-997C-91CAC493D0FC/0-16x9.jpg?width=1980" channel-number="8" group-title="RYANTV CHANNELS", RPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZsWDiRF.png" group-title="RYANTV CHANNELS", Tap Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
