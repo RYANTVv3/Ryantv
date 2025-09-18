@@ -1661,3 +1661,99 @@ http://supersonictv.live:8080/611366/682256/22124
 
 #EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abante Radyo" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Abante Radyo
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ani One" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Ani One
+https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Z sine(tagalog dub)" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Z sine(tagalog dub)
+https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blast Movies" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Blast Movies
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollymovies" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Bollymovies
+https://amg17931-zee-amg17931c8-samsung-ph-6525.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Free Movies" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Free Movies
+https://amg01553-amg01553c2-samsung-ph-7163.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC TV" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",UFC TV
+https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blast Sports" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Blast Sports
+https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euronews World" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Euronews World
+https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Leadstory Breaking News" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Leadstory Breaking News
+https://amg02703-amg02703c17-samsung-ph-4546.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="France 24" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",France 24
+https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Blast" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Real Blast
+https://amg19223-amg19223c10-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c10-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mythbusters" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Mythbusters
+https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Survivor" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Survivor
+https://amg00627-amg00627c16-samsung-ph-5303.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Highway Thru Hell" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Highway Thru Hell
+https://amg00627-amg00627c15-samsung-ph-4559.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Biggest Loser" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",The Biggest Loser
+https://amg00627-amg00627c4-samsung-ph-5275.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fear Factor" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Fear Factor
+https://amg00627-amg00627c2-samsung-ph-5298.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hardcore Pawn" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Hardcore Pawn
+https://amg00627-amg00627c8-samsung-ph-5278.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wipeout Xtra" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Wipeout Xtra
+https://amg00627-amg00627c7-samsung-ph-5300.playouts.now.amagi.tv/playlist/amg00627-banijayfast-wipeoutxtra-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Monsters by ITV Studios" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Monsters by ITV Studios
+https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deal or No Deal" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Deal or No Deal
+https://amg00627-amg00627c21-samsung-ph-5284.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrow-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pointless" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Pointless
+https://amg00627-amg00627c34-samsung-ph-5313.playouts.now.amagi.tv/playlist/amg00627-banijayfast-pointless-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don't Tell the Bride" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Don't Tell the Bride
+https://amg00426-lds-amg00426c15-samsung-ph-4614.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Come Dine With Me" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Come Dine With Me
+https://amg00654-itv-amg00654c2-samsung-ph-4583.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Infast" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Infast
+https://amg00861-amg00861c8-samsung-ph-4629.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Inwild" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Inwild
+https://amg00861-amg00861c7-samsung-ph-4632.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pet Club TV" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Pet Club TV
+https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Crime" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Real Crime
+https://amg00426-lds-amg00426c16-samsung-ph-4620.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Hit" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",History Hit
+https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Glitch Plus" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Glitch Plus
+https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Wild" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Real Wild
+https://amg00426-lds-amg00426c1-samsung-ph-4626.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pulse TV" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Pulse TV
+https://amg01076-amg01076c8-samsung-ph-5639.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" InTravel" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS", InTravel
+https://amg00861-amg00861c22-samsung-ph-5411.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="InTrouble" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",InTrouble
+https://amg00861-amg00861c6-samsung-ph-4635.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comic U" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Comic U
+https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c8-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1Tap Sports" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",1Tap Sports
+https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2Premier Sports 1" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",2Premier Sports 1
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1Premier Sports 2" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",1Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Football" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Premier Football
+https://amg19223-amg19223c5-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c5-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Tennis+
+https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Red Bull TV" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Red Bull TV
+https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Now 70s" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Now 70s
+https://amg01076-amg01076c1-samsung-ph-6994.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Now 80s" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Now 80s
+https://amg01076-amg01076c2-samsung-ph-6998.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Now Rock" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Now Rock
+https://amg01076-amg01076c3-samsung-ph-7003.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Urban" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Trace Urban
+https://amg01131-amg01131c1-samsung-ph-5310.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kidoodle TV" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Kidoodle TV
+https://amg07653-apmc-amg07653c5-samsung-ph-8539.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dude Perfect" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Dude Perfect
+https://amg07653-apmc-amg07653c4-samsung-ph-8465.playouts.now.amagi.tv/playlist.m3u8
