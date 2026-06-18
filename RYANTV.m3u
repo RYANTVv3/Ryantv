@@ -1,43 +1,8 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/epg.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/clickthecity_epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://github.com/zultan-m/astro-epg/raw/main/astro.xml, https://github.com/AqFad2811/epg/raw/main/sooka.xml, https://github.com/AqFad2811/epg/raw/main/unifitv.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/merged_epg.xml.gz, https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz, https://raw.githubusercontent.com/atone77721/STVP/main/output/samsung_tvplus.xml, https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml, https://iptvx.one/epg/epg.xml.gz, http://epg.one/epg.xml; https://iptvx.one/EPG_NOARCH; https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz, https://www.open-epg.com/files/unitedstates10.xml.gz, https://www.open-epg.com/files/unitedstates11.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa1.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa2.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa3.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa4.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa5.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa6.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom1.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom2.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom3.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom4.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom5.xml.gz, https://epg.pw/xmltv/epg_US.xml.gz, https://epg.pw/xmltv/epg_RU.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_AU.xml.gz, https://epg.pw/xmltv/epg_GB.xml.gz, https://epg.pw/xmltv/epg_JP.xml.gz, https://epg.pw/xmltv/epg_BR.xml.gz, https://tinyurl.com/DrewLive002-epg, https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz" tvg-shift="+5" refresh="86400"
 
-#EXTINF:-1 tvg-id="peopleareawesome" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="💓 𑜶𐑾ᨡඋৎ",💓 𑜶𐑾ᨡඋৎ
+#EXTINF:-1 tvg-id="peopleareawesome" tvg-logo="https://i.postimg.cc/Gt1h31wK/z-Gracez.png" group-title="PAA
 https://linear-175.frequency.stream/dist/whaletvplus/175/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" provider="NBALP" provider-type="iptv" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="🏀NBA League Pass",ESPN - HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45d4b06cf3345219a4184135abbefc18:1d28c167b64f628c23a89a84ce4a3b09
-https://dck1-fs-live.dtcdn.dazn.com/v1/dash/dd9ef956a8aeac50cfbdf4d7897caa9186ef8f9b/dazn-strex-sports-live-drm-session/out/v1/761f422bb93edb7b/f694c60809004f6fb71d4ed7c1fcfbf8/index.mpd?aws.sessionId=17ea184b-2425-4a7e-963a-fbba5f0ee1b9&dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvb3V0L3YxLzc2MWY0MjJiYjkzZWRiN2IvZjY5NGM2MDgwOTAwNGY2ZmI3MWQ0ZWQ3YzFmY2ZiZjgiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNzQ3NyJdLCJpbnRzaWciOiJodS1EUWtmMUQwR0tpOTFvNVB4RG5rUC1tQ0JzYkR2X2NfbnpYazhkSnZnIiwiaWF0IjoxNzc5MTc0NDc0LCJleHAiOjE3NzkyNjA4NzR9.404xkRlnUmcF_vxpagZBhpcX2ItiF1niY-NJxjTwHPU&ck=eyI0NWQ0YjA2Y2YzMzQ1MjE5YTQxODQxMzVhYmJlZmMxOCI6IjFkMjhjMTY3YjY0ZjYyOGMyM2E4OWE4NGNlNGEzYjA5In0%3D
-
-#EXTINF:1 group-title="🏀NBA League Pass" tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" provider="NBALP" provider-logo="" provider-type="iptv",NBC - HD
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=0792e0768d35c1038a8619275adefbab049f03d7ad08feebcb05fec8f9aca7a1
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="🏀NBA League Pass",Stream Rox HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://701.formaturamaxi.com.br/nba.m3u8
-
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.st/assets/thumb/3ae629759ba983feb445a8a0017b8cec-thumbnail.jpg" group-title="🏀NBA League Pass",8:30AM Knicks vs Spurs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://lba1.lefiles.cfd/live/spurs/stream.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="San Antonio Spurs vs Oklahoma City Thunder" tvg-logo="https://api.ppv.st/assets/thumb/3ae629759ba983feb445a8a0017b8cec-thumbnail.jpg" group-title="🏀NBA League Pass",8:30AM Knicks vs Spurs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-https://v5.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=D8Fv8oK6MXc22Z2ue4GVDg&expires=1780544834&user_id=dE1TdU1qclgzM0pIRGRvZTJlcjIwdmNwcDZrVllIMnBmUFN4MU9CbA==
-
-
-
-#EXTINF:-1 tvg-id="cgnl_nba" tvg-logo="https://i.imgur.com/x1ZG71v.png" group-title="🔹Cignal", NBA TV Philippines
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1f8a0c97b3d4e529a6f2c4b8d7e1f90:58ab331d14b66bf31aca4284e0a3e536
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1 tvg-id="cg_buko_sd" tvg-logo="https://i.imgur.com/Wv0K5Yc.png" group-title="🔹Cignal",BuKO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2838,5 +2803,4 @@ https://gsattv.akamaized.net/live/media0/musicquest/Widevine/musicquest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BvRmdtg3/stingray-karaoke-png.webp" ch-number="616" group-title="🔹Karaoke Channels",Stingray Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="SuriansTV" tvg-logo="https://i.postimg.cc/fWXb0pjh/Surians-TV.jpg" group-title="🇳🇵Surians✌︎㋡",Surians
-https://cors-proxy.cooks.fyi/https://pb-jo4rx96uyjcxx.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-jo4rx96uyjcxx/v1/aenetworks_pawnstars_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.ads_cdn=ak&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=ak&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=US300003S3&ads.ssai_vendor=SSSLIVE&ads.us_privacy=1YNY&pb_type=pb-jo4rx96uyjcxx_akama
+
