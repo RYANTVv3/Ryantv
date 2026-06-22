@@ -1,3 +1,9 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 tvg-id="" tvg-name="Kids MrBean ᴴᴰ" tvg-logo="https://iili.io/HiSSRgj.md.png" group-title="REQUEST CHANNELS",Kids MrBean ᴴᴰ
 http://websafety101.net:5050/JT2024/wxApKJ57yy/567102
+
+#EXTINF: -1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" group-title="RYANTV CHANNELS",GMA I Heart Movies
+https://nokotan.anhkz.fr/channel/n696d5dc/index.m3u8?q=d0475082894a131707d75e3ae57d6608
+
+#EXTINF: -1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" tvg-logo-small="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" group-title="RYANTV CHANNELS",GMA Heart of Asia
+https://nokotan.anhkz.fr/channel/n5f560977/index.m3u8?q=d0475082894a131707d75e3ae57d6608
