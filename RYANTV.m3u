@@ -1,4 +1,190 @@
-#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/all/epg.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/clickthecity_epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://github.com/zultan-m/astro-epg/raw/main/astro.xml, https://github.com/AqFad2811/epg/raw/main/sooka.xml, https://github.com/AqFad2811/epg/raw/main/unifitv.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/merged_epg.xml.gz, https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz, https://raw.githubusercontent.com/atone77721/STVP/main/output/samsung_tvplus.xml, https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml, https://iptvx.one/epg/epg.xml.gz, http://epg.one/epg.xml; https://iptvx.one/EPG_NOARCH; https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz, https://www.open-epg.com/files/unitedstates10.xml.gz, https://www.open-epg.com/files/unitedstates11.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa1.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa2.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa3.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa4.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa5.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Usa/usa6.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom1.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom2.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom3.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom4.xml.gz, https://raw.githubusercontent.com/globetvapp/epg/main/Unitedkingdom/unitedkingdom5.xml.gz, https://epg.pw/xmltv/epg_US.xml.gz, https://epg.pw/xmltv/epg_RU.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epg.pw/xmltv/epg_AU.xml.gz, https://epg.pw/xmltv/epg_GB.xml.gz, https://epg.pw/xmltv/epg_JP.xml.gz, https://epg.pw/xmltv/epg_BR.xml.gz, https://tinyurl.com/DrewLive002-epg, https://zipline.nocn.ddnsfree.com/u/merged2_epg.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz" tvg-shift="+5" refresh="86400"
+#EXTM3U Provided by RYANTV
 
-#EXTINF:-1 tvg-id="" tvg-name="Kids MrBean ᴴᴰ" tvg-logo="https://iili.io/HiSSRgj.md.png" group-title="REQUEST CHANNELS",Kids MrBean ᴴᴰ
+#EXTINF:-1 tvg-id="98" tvg-logo="https://iptv.skymovieph.com:8445/logo/5.png" group-title="RYANTV FREE TRIAL",GMA7
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/98.m3u8
+
+#EXTINF:-1 tvg-id="99" tvg-logo="https://iptv.skymovieph.com:8445/logo/06182021040655.png" group-title="RYANTV FREE TRIAL",IBC 13
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/99.m3u8
+
+#EXTINF:-1 tvg-id="114" tvg-logo="https://iptv.skymovieph.com:8445/logo/36.png" group-title="RYANTV FREE TRIAL",TV 5
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/114.m3u8
+
+#EXTINF:-1 tvg-id="100" tvg-logo="https://iptv.skymovieph.com:8445/logo/102520240910236642.png" group-title="RYANTV FREE TRIAL",PTV 4
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/100.m3u8
+
+#EXTINF:-1 tvg-id="101" tvg-logo="https://iptv.skymovieph.com:8445/logo/111.png" group-title="RYANTV FREE TRIAL",KAPAMILYA
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/101.m3u8
+
+#EXTINF:-1 tvg-id="102" tvg-logo="https://iptv.skymovieph.com:8445/logo/102520240910558649.png" group-title="RYANTV FREE TRIAL",TMC
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/102.m3u8
+
+#EXTINF:-1 tvg-id="186" tvg-logo="https://iptv.skymovieph.com:8445/logo/40.png" group-title="RYANTV FREE TRIAL",VIVA CINEMA
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/186.m3u8
+
+#EXTINF:-1 tvg-id="104" tvg-logo="https://iptv.skymovieph.com:8445/logo/06182021060606.png" group-title="RYANTV FREE TRIAL",CINEMO
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/104.m3u8
+
+#EXTINF:-1 tvg-id="105" tvg-logo="https://iptv.skymovieph.com:8445/logo/39.png" group-title="RYANTV FREE TRIAL",PBO
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/105.m3u8
+
+#EXTINF:-1 tvg-id="152" tvg-logo="https://iptv.skymovieph.com:8445/logo/41.png" group-title="RYANTV FREE TRIAL",CINEMA ONE
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/152.m3u8
+
+#EXTINF:-1 tvg-id="195" tvg-logo="https://iptv.skymovieph.com:8445/logo/113.png" group-title="RYANTV FREE TRIAL",HITS
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/195.m3u8
+
+#EXTINF:-1 tvg-id="111" tvg-logo="https://iptv.skymovieph.com:8445/logo/06182021070603.png" group-title="RYANTV FREE TRIAL",KIX
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/111.m3u8
+
+#EXTINF:-1 tvg-id="167" tvg-logo="https://iptv.skymovieph.com:8445/logo/85.png" group-title="RYANTV FREE TRIAL",LOTUS MACAU
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/167.m3u8
+
+#EXTINF:-1 tvg-id="113" tvg-logo="https://iptv.skymovieph.com:8445/logo/102520240910538364.png" group-title="RYANTV FREE TRIAL",TAP ACTION FLIX
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/113.m3u8
+
+#EXTINF:-1 tvg-id="115" tvg-logo="https://iptv.skymovieph.com:8445/logo/091720222009414011.png" group-title="RYANTV FREE TRIAL",SOLAR FLIX
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/115.m3u8
+
+#EXTINF:-1 tvg-id="116" tvg-logo="https://iptv.skymovieph.com:8445/logo/061120220506347539.png" group-title="RYANTV FREE TRIAL",TAP MOVIES
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/116.m3u8
+
+#EXTINF:-1 tvg-id="118" tvg-logo="https://iptv.skymovieph.com:8445/logo/72.png" group-title="RYANTV FREE TRIAL",KBS WORLD
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/118.m3u8
+
+#EXTINF:-1 tvg-id="180" tvg-logo="https://iptv.skymovieph.com:8445/logo/7.png" group-title="RYANTV FREE TRIAL",HBO
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/180.m3u8
+
+#EXTINF:-1 tvg-id="192" tvg-logo="https://iptv.skymovieph.com:8445/logo/06282021010646.png" group-title="RYANTV FREE TRIAL",HBO SIGNATURE
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/192.m3u8
+
+#EXTINF:-1 tvg-id="191" tvg-logo="https://iptv.skymovieph.com:8445/logo/061120220506243898.png" group-title="RYANTV FREE TRIAL",HBO FAMILY
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/191.m3u8
+
+#EXTINF:-1 tvg-id="119" tvg-logo="https://iptv.skymovieph.com:8445/logo/102520240910381774.png" group-title="RYANTV FREE TRIAL",SMNI
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/119.m3u8
+
+#EXTINF:-1 tvg-id="120" tvg-logo="https://iptv.skymovieph.com:8445/logo/06182021050645.png" group-title="RYANTV FREE TRIAL",DZRH
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/120.m3u8
+
+#EXTINF:-1 tvg-id="123" tvg-logo="https://iptv.skymovieph.com:8445/logo/17.png" group-title="RYANTV FREE TRIAL",CNN INT
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/123.m3u8
+
+#EXTINF:-1 tvg-id="124" tvg-logo="https://iptv.skymovieph.com:8445/logo/102520240910333778.png" group-title="RYANTV FREE TRIAL",ONE NEWS
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/124.m3u8
+
+#EXTINF:-1 tvg-id="175" tvg-logo="https://iptv.skymovieph.com:8445/logo/29.png" group-title="RYANTV FREE TRIAL",ANC
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/175.m3u8
+
+#EXTINF:-1 tvg-id="127" tvg-logo="https://iptv.skymovieph.com:8445/logo/102520240910298782.png" group-title="RYANTV FREE TRIAL",RPTV
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/127.m3u8
+
+#EXTINF:-1 tvg-id="103" tvg-logo="https://iptv.skymovieph.com:8445/logo/35.png" group-title="RYANTV FREE TRIAL",GMA NEWS TV
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/103.m3u8
+
+#EXTINF:-1 tvg-id="129" group-title="RYANTV FREE TRIAL",BUKO CH
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/129.m3u8
+
+#EXTINF:-1 tvg-id="130" tvg-logo="https://iptv.skymovieph.com:8445/logo/102520240910097401.png" group-title="RYANTV FREE TRIAL",METRO CHANNEL
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/130.m3u8
+
+#EXTINF:-1 tvg-id="133" tvg-logo="https://iptv.skymovieph.com:8445/logo/06182021050657.png" group-title="RYANTV FREE TRIAL",FIGHT SPORTS
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/133.m3u8
+
+#EXTINF:-1 tvg-id="134" tvg-logo="https://iptv.skymovieph.com:8445/logo/102520240910165776.png" group-title="RYANTV FREE TRIAL",PBA RUSH
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/134.m3u8
+
+#EXTINF:-1 tvg-id="135" tvg-logo="https://iptv.skymovieph.com:8445/logo/102520240910579442.png" group-title="RYANTV FREE TRIAL",ONE SPORTS
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/135.m3u8
+
+#EXTINF:-1 tvg-id="136" tvg-logo="https://iptv.skymovieph.com:8445/logo/102520240910207354.png" group-title="RYANTV FREE TRIAL",NBA PH
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/136.m3u8
+
+#EXTINF:-1 tvg-id="139" tvg-logo="https://iptv.skymovieph.com:8445/logo/10252024091049492.png" group-title="RYANTV FREE TRIAL",TAP SPORTS
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/139.m3u8
+
+#EXTINF:-1 tvg-id="137" tvg-logo="https://iptv.skymovieph.com:8445/logo/011220251701211429.png" group-title="RYANTV FREE TRIAL",GOLF PH
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/137.m3u8
+
+#EXTINF:-1 tvg-id="138" tvg-logo="https://iptv.skymovieph.com:8445/logo/49.png" group-title="RYANTV FREE TRIAL",ESPN
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/138.m3u8
+
+#EXTINF:-1 tvg-id="141" tvg-logo="https://iptv.skymovieph.com:8445/logo/06182021050658.jpg" group-title="RYANTV FREE TRIAL",TRACESPORTS
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/141.m3u8
+
+#EXTINF:-1 tvg-id="142" tvg-logo="https://iptv.skymovieph.com:8445/logo/51.png" group-title="RYANTV FREE TRIAL",PINOY EXTREME
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/142.m3u8
+
+#EXTINF:-1 tvg-id="143" tvg-logo="https://iptv.skymovieph.com:8445/logo/62.png" group-title="RYANTV FREE TRIAL",LIFETIME
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/143.m3u8
+
+#EXTINF:-1 tvg-id="206" tvg-logo="https://iptv.skymovieph.com:8445/logo/102520240910203606.jpg" group-title="RYANTV FREE TRIAL",PREMIER SPORTS
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/206.m3u8
+
+#EXTINF:-1 tvg-id="145" tvg-logo="https://iptv.skymovieph.com:8445/logo/13.png" group-title="RYANTV FREE TRIAL",CARTOON NETWORK
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/145.m3u8
+
+#EXTINF:-1 tvg-id="147" tvg-logo="https://iptv.skymovieph.com:8445/logo/48.png" group-title="RYANTV FREE TRIAL",CARTOONITO
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/147.m3u8
+
+#EXTINF:-1 tvg-id="149" tvg-logo="https://iptv.skymovieph.com:8445/logo/91.png" group-title="RYANTV FREE TRIAL",NICK JR
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/149.m3u8
+
+#EXTINF:-1 tvg-id="150" tvg-logo="https://iptv.skymovieph.com:8445/logo/060720220406198278.png" group-title="RYANTV FREE TRIAL",NICKELODEON
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/150.m3u8
+
+#EXTINF:-1 tvg-id="153" tvg-logo="https://iptv.skymovieph.com:8445/logo/99.png" group-title="RYANTV FREE TRIAL",HISTORY
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/153.m3u8
+
+#EXTINF:-1 tvg-id="154" tvg-logo="https://iptv.skymovieph.com:8445/logo/06182021050644.png" group-title="RYANTV FREE TRIAL",LOVE NATURE
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/154.m3u8
+
+#EXTINF:-1 tvg-id="156" tvg-logo="https://iptv.skymovieph.com:8445/logo/58.png" group-title="RYANTV FREE TRIAL",CRIME INVESTIGATION
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/156.m3u8
+
+#EXTINF:-1 tvg-id="158" tvg-logo="https://iptv.skymovieph.com:8445/logo/15.png" group-title="RYANTV FREE TRIAL",BBC EARTH
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/158.m3u8
+
+#EXTINF:-1 tvg-id="160" tvg-logo="https://iptv.skymovieph.com:8445/logo/102520240910276694.png" group-title="RYANTV FREE TRIAL",ONE MEDIA
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/160.m3u8
+
+#EXTINF:-1 tvg-id="161" tvg-logo="https://iptv.skymovieph.com:8445/logo/102520240910101101.png" group-title="RYANTV FREE TRIAL",ABC AUSTRALIA
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/161.m3u8
+
+#EXTINF:-1 tvg-id="159" tvg-logo="https://iptv.skymovieph.com:8445/logo/61.png" group-title="RYANTV FREE TRIAL",KNOWLEDGE CH
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/159.m3u8
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://iptv.skymovieph.com:8445/logo/59.png" group-title="RYANTV FREE TRIAL",CELESTIAL PINOY
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/200.m3u8
+
+#EXTINF:-1 tvg-id="181" tvg-logo="https://iptv.skymovieph.com:8445/logo/81.png" group-title="RYANTV FREE TRIAL",TVN
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/181.m3u8
+
+#EXTINF:-1 tvg-id="162" tvg-logo="https://iptv.skymovieph.com:8445/logo/19.png" group-title="RYANTV FREE TRIAL",ONE PH
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/162.m3u8
+
+#EXTINF:-1 tvg-id="194" tvg-logo="https://iptv.skymovieph.com:8445/logo/71.png" group-title="RYANTV FREE TRIAL",FASHION TV
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/194.m3u8
+
+#EXTINF:-1 tvg-id="165" tvg-logo="https://iptv.skymovieph.com:8445/logo/06182021070617.png" group-title="RYANTV FREE TRIAL",JEEPNEY
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/165.m3u8
+
+#EXTINF:-1 tvg-id="199" tvg-logo="https://iptv.skymovieph.com:8445/logo/31.png" group-title="RYANTV FREE TRIAL",TLC
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/199.m3u8
+
+#EXTINF:-1 tvg-id="169" tvg-logo="https://iptv.skymovieph.com:8445/logo/06182021070625.png" group-title="RYANTV FREE TRIAL",LIFESTYLE
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/169.m3u8
+
+#EXTINF:-1 tvg-id="173" tvg-logo="https://iptv.skymovieph.com:8445/logo/45.png" group-title="RYANTV FREE TRIAL",WARNER TV
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/173.m3u8
+
+#EXTINF:-1 tvg-id="174" tvg-logo="https://iptv.skymovieph.com:8445/logo/091720222009069435.png" group-title="RYANTV FREE TRIAL",ROCK ENTERTAINMENT
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/174.m3u8
+
+#EXTINF:-1 tvg-id="202" tvg-logo="https://iptv.skymovieph.com:8445/logo/06182021070605.png" group-title="RYANTV FREE TRIAL",INC
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/202.m3u8
+
+#EXTINF:-1 tvg-id="182" tvg-logo="https://iptv.skymovieph.com:8445/logo/06182021070609.png" group-title="RYANTV FREE TRIAL",UNTV
+http://103.152.216.26:8443/live/kJlRu8aOe98RFIwlOJVkiw/1785588152/182.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kids MrBean ᴴᴰ" tvg-logo="https://iili.io/HiSSRgj.md.png" group-title="RYANTV FREE TRIAL",Kids MrBean ᴴᴰ
 http://websafety101.net:5050/JT2024/wxApKJ57yy/567102
